@@ -29,6 +29,10 @@ MySQL | SQLite | PostgreSQL
 Git | Docker | Linux | VS Code | NetBeans
 
 ---
+## 📚 Certifications
+
+- CCNA 1 (Cisco Networking Academy)
+- Python Essentials 1 & 2
 
 ## 📌 Featured Projects
 
