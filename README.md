@@ -17,7 +17,7 @@ Currently improving frontend skills while deepening backend expertise.
 ## 🛠 Tech Stack
 
 **Languages**
-Python | Java | C | SQL | JavaScript | PHP | HTML | CSS
+Python | Java | C | SQL | JavaScript | PHP | HTML | CSS | C#
 
 **Frameworks**
 Django | FastAPI | Java Swing
@@ -31,8 +31,10 @@ Git | Docker | Linux | VS Code | NetBeans
 ---
 ## 📚 Certifications
 
-- CCNA 1 (Cisco Networking Academy)
-- Python Essentials 1 & 2
+- CCNA 1 
+- CCNA 2 
+- Python Essentials 1
+- python Essentials 2
 
 ## 📌 Featured Projects
 
