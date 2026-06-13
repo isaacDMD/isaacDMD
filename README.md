@@ -1,4 +1,4 @@
-# Isaac DMD
+# Isaac DJIMADJO
 
 Full Stack Developer (Python Focus)  
 Backend-oriented | API Development | Computer Vision  
