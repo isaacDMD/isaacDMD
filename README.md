@@ -1,97 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9F5&height=220&section=header&text=Isaac%20DJIMADJO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Desktop%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B35,50:F7931E,100:004E64&height=200&section=header&text=Isaac%20DJIMADJO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=du%20code%2C%20du%20caf%C3%A9%2C%20et%20la%20vue%20sur%20l'oc%C3%A9an&descAlignY=62&descSize=17&fontFamily=Fira+Code" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Isaac;Full-Stack+%26+Desktop+Developer;RAG+%2F+AI-curious+Engineer-in-training;Turning+coffee+into+code+since+day+one." alt="Typing SVG" />
-
-<br>
-
-**🌍 Choose your language / Choisis ta langue**
-
-[![English](https://img.shields.io/badge/🇬🇧_English-6C63FF?style=for-the-badge&logoColor=white)](#-english)
-[![Français](https://img.shields.io/badge/🇫🇷_Français-00D9F5?style=for-the-badge&logoColor=white)](#-français)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9F5&height=3&width=100%25"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Desktop+Developer;Bas%C3%A9+%C3%A0+Lom%C3%A9%2C+Togo+%F0%9F%87%B9%F0%9F%87%AC;Actuellement+en+stage+%E2%80%94+SaaS+Ads+Platform;En+train+d'apprendre+RAG+%2F+IA+appliqu%C3%A9e." />
 
 </div>
 
 <br>
 
-## 🇬🇧 English
+## 👋 Qui suis-je
 
-### 👋 About Me
+Étudiant en informatique, je passe la majorité de mon temps à naviguer entre **web** et **desktop** — deux mondes qui ne se parlent pas toujours, mais que j'aime autant l'un que l'autre. En ce moment, je suis en stage dans une agence tech à Lomé, où je construis une plateforme SaaS pour le secteur publicitaire, et sur le côté je creuse les outils IA / RAG parce que ça me fascine de voir jusqu'où on peut pousser un modèle avec le bon contexte.
 
-I'm **Isaac DJIMADJO**, a Computer Science student who enjoys building things that actually work — and occasionally things that work *despite* me. I split my time between **web** and **desktop** development, with a growing curiosity for AI-assisted tools.
+Je n'ai pas encore trouvé le bug qui résiste à un café et à une nuit de sommeil — mais j'y travaille.
 
-Currently doing my internship at a tech agency in Lomé, working on a SaaS platform for the advertising industry — happy to share more if you ask 👀
+<details>
+<summary><b>🇬🇧 Read in English</b></summary>
+<br>
 
-```yaml
-isaac:
-  role: "Computer Science Student"
-  focus: ["Web Development", "Desktop Applications"]
-  currently_interning: true
-  location: "Lomé, Togo"
-  status: "Open to network & opportunities"
-  fun_fact: "My code compiles on the first try... in my dreams 😅"
+I'm a Computer Science student splitting my time between **web** and **desktop** development. Currently interning at a tech agency in Lomé, building a SaaS platform for the advertising industry, and exploring RAG / applied AI on the side. No bug has survived a coffee and a night's sleep yet — but I'm working on it.
+
+</details>
+
+<br>
+
+## 🧭 En ce moment
+
+```text
+📍 Lomé, Togo
+🎓 Étudiant en Informatique
+💼 Stagiaire — plateforme SaaS (industrie publicitaire)
+🔭 J'explore : RAG, outils IA-assistés, .NET MAUI
+🤝 Ouvert aux échanges, collabs, et opportunités
 ```
 
 <br>
 
-### 🛠️ Tech Stack
+## 🛠️ Stack
+
+**Langages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,php,laravel,vue&theme=dark" />
+
+**Desktop**
+
+<img src="https://skillicons.dev/icons?i=dotnet,java&theme=dark" /> <sub>.NET MAUI · Java Swing</sub>
+
+**Data & Outils**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker&theme=dark" />
+
+<br>
+
+## 🏆 Certifications
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<img src="https://img.shields.io/badge/C%23-6C63FF?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-00D9F5?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-
-**Desktop Development**
-
-<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Java%20Swing-00D9F5?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-**Databases & Tools**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+|  | Certification | Organisme |
+|:---:|:---|:---|
+| 🌐 | CCNA 1 | Cisco Networking Academy |
+| 🌐 | CCNA 2 | Cisco Networking Academy |
+| 🐍 | Python Essentials 1 | Cisco Networking Academy |
+| 🐍 | Python Essentials 2 | Cisco Networking Academy |
 
 </div>
 
 <br>
 
-### 🏆 Certifications
+## 📊 Statistiques
 
 <div align="center">
-
-| Certification | Provider |
-|:---:|:---:|
-| 🌐 CCNA 1 | Cisco Networking Academy |
-| 🌐 CCNA 2 | Cisco Networking Academy |
-| 🐍 Python Essentials 1 | Cisco Networking Academy |
-| 🐍 Python Essentials 2 | Cisco Networking Academy |
-
-</div>
-
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsaacDMD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=00D9F5&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacDMD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=IsaacDMD&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9&ring_color=004E64" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacDMD&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacDMD&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=00D9F5&currStreakLabel=A78BFA" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacDMD&hide_border=true&background=00000000&ring=F7931E&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" />
 </div>
 
 <div align="center">
@@ -100,113 +84,20 @@ isaac:
 
 <br>
 
-### 📫 Let's Connect
+## 📫 Me contacter
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)]([Ton lien LinkedIn])
-[![Email](https://img.shields.io/badge/Email-00D9F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Ton adresse email])
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)]([Ton lien portfolio])
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/[Ton numéro WhatsApp])
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9F5&height=3&width=100%25"/>
-
-<br>
-
-## 🇫🇷 Français
-
-### 👋 À propos de moi
-
-Je suis **Isaac DJIMADJO**, étudiant en Informatique passionné par la construction de choses qui fonctionnent vraiment — et parfois de choses qui fonctionnent *malgré* moi. Je partage mon temps entre le développement **web** et **desktop**, avec une curiosité grandissante pour les outils assistés par l'IA.
-
-Actuellement en stage dans une agence tech à Lomé, où je travaille sur une plateforme SaaS pour le secteur publicitaire — n'hésite pas à demander plus de détails 👀
-
-```yaml
-isaac:
-  role: "Étudiant en Informatique"
-  focus: ["Développement Web", "Applications Desktop"]
-  stage_en_cours: true
-  localisation: "Lomé, Togo"
-  statut: "Ouvert au réseau & aux opportunités"
-  fun_fact: "Mon code compile du premier coup... dans mes rêves 😅"
-```
-
-<br>
-
-### 🛠️ Stack Technique
-
-<div align="center">
-
-**Langages & Frameworks**
-
-<img src="https://img.shields.io/badge/C%23-6C63FF?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-00D9F5?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-
-**Développement Desktop**
-
-<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Java%20Swing-00D9F5?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-**Bases de données & Outils**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<a href="https://www.linkedin.com/in/isaac-djimadjo/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+<a href="mailto:isaacdjimadjo830@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+<a href="https://wa.me/22890764916"><img src="https://skillicons.dev/icons?i=whatsapp&theme=dark" /></a>
 
 </div>
 
 <br>
 
-### 🏆 Certifications
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:004E64,50:F7931E,100:FF6B35&height=100&section=footer" width="100%"/>
 
 <div align="center">
-
-| Certification | Organisme |
-|:---:|:---:|
-| 🌐 CCNA 1 | Cisco Networking Academy |
-| 🌐 CCNA 2 | Cisco Networking Academy |
-| 🐍 Python Essentials 1 | Cisco Networking Academy |
-| 🐍 Python Essentials 2 | Cisco Networking Academy |
-
-</div>
-
-<br>
-
-### 📊 Statistiques GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsaacDMD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=00D9F5&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacDMD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacDMD&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=00D9F5&currStreakLabel=A78BFA" />
-</div>
-
-<br>
-
-### 📫 Me contacter
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-djimadjo/)
-[![Email](https://img.shields.io/badge/Email-00D9F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacdjimadjo830@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)] Comming
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/90764916)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,100:6C63FF&height=100&section=footer"/>
-
-<div align="center">
-<sub>⭐️ Thanks for stopping by — feel free to explore my pinned repos below!</sub>
+<sub>Merci d'être passé — un ⭐️ sur un de mes dépôts fait toujours plaisir.</sub>
 </div>
