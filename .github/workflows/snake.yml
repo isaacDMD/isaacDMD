@@ -1,8 +1,7 @@
 name: Generate Snake Animation
-
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
+    - cron: "0 0 * * *"   # une fois par jour
   workflow_dispatch: {}
   push:
     branches:
