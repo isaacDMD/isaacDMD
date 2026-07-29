@@ -29,8 +29,7 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 ```text
 📍 Lomé, Togo
 🎓 Étudiant en Informatique
-💼 Stagiaire — plateforme SaaS (industrie publicitaire)
-🔭 J'explore : RAG, outils IA-assistés, .NET MAUI
+🔭 J'explore : RAG, outils IA-assistés, LARAVEL, VUE
 🤝 Ouvert aux échanges, collabs, et opportunités
 ```
 
@@ -38,27 +37,79 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 
 ## 🛠️ Stack
 
-**Langages & Frameworks**
+### 💻 Langages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,php,laravel,vue&theme=dark&margin=100&space=true" />
+<div align="center">
 
-**Desktop**
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=dotnet,java&theme=dark&margin=100&space=true" /> <sub>.NET MAUI · Java Swing</sub>
+</div>
 
-**Bases de données & Infra**
+<br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker&theme=dark&margin=100&space=true" />
+### 🖥️ Développement Desktop
 
-**Systèmes**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark&margin=100&space=true" />
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
-**Éditeurs & IA**
+<br>
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion&theme=dark&margin=100&space=true" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white&margin=100&space=true" />
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white&margin=100&space=true" />
+<sub>.NET MAUI &nbsp;&nbsp;•&nbsp;&nbsp; Java Swing</sub>
+
+</div>
+
+<br>
+
+### 🗄️ Bases de données & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+
+</div>
+
+<br>
+
+### 🖥️ Systèmes
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+
+</div>
+
+<br>
+
+### 🧰 Outils & IA
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=notion&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
 
 <br>
 
@@ -76,14 +127,47 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 
 </div>
 
-| Projet | Description | Stack |
-|:---|:---|:---|
-| 🎹 [Gesture Synth](https://github.com/IsaacDMD/gesture-synth) | Synthétiseur qui joue une note selon le doigt levé | Python |
-| ⛪ [EMBERC](https://github.com/IsaacDMD/EMBERC) | Plateforme de gestion pour une communauté d'église | FastAPI · Vue |
-| 🍽️ [RESTAU](https://github.com/IsaacDMD/Restaurant-management-system) | Application de gestion de restaurant | Java Swing |
-| 👕 [PRESSING](https://github.com/IsaacDMD/pressing-pro) | Application de gestion de pressing | TypeScript · React |
-| ❓ [Vue Quiz](https://github.com/IsaacDMD/vue_quiz) | Site web de quiz interactif | Vue |
-| 📋 [Mini Pannau Hub](https://github.com/IsaacDMD/Mini-Pannau-Hub) | Mini-hub web de gestion de panneaux | PHP · Laravel |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;Projet&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th align="left" width="50%">&nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th align="left" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;Stack&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><br>&nbsp;&nbsp;🎹 <a href="https://github.com/IsaacDMD/gesture-synth">Gesture Synth</a>&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Synthétiseur qui joue une note selon le doigt levé&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Python&nbsp;&nbsp;<br>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><br>&nbsp;&nbsp;⛪ <a href="https://github.com/IsaacDMD/EMBERC">EMBERC</a>&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Plateforme de gestion pour une communauté d'église&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;FastAPI · Vue&nbsp;&nbsp;<br>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><br>&nbsp;&nbsp;🍽️ <a href="https://github.com/IsaacDMD/Restaurant-management-system">RESTAU</a>&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Application de gestion de restaurant&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Java Swing&nbsp;&nbsp;<br>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><br>&nbsp;&nbsp;👕 <a href="https://github.com/IsaacDMD/pressing-pro">PRESSING</a>&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Application de gestion de pressing&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;TypeScript · React&nbsp;&nbsp;<br>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><br>&nbsp;&nbsp;❓ <a href="https://github.com/IsaacDMD/vue_quiz">Vue Quiz</a>&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Site web de quiz interactif&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Vue&nbsp;&nbsp;<br>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><br>&nbsp;&nbsp;📋 <a href="https://github.com/IsaacDMD/Mini-Pannau-Hub">Mini Pannau Hub</a>&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;Mini-hub web de gestion de panneaux&nbsp;&nbsp;<br>&nbsp;</td>
+      <td><br>&nbsp;&nbsp;PHP · Laravel&nbsp;&nbsp;<br>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
