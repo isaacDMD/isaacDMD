@@ -40,15 +40,50 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 
 **Langages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,php,laravel,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,php,laravel,vue&theme=dark&margin=100&space=true" />
 
 **Desktop**
 
-<img src="https://skillicons.dev/icons?i=dotnet,java&theme=dark" /> <sub>.NET MAUI · Java Swing</sub>
+<img src="https://skillicons.dev/icons?i=dotnet,java&theme=dark&margin=100&space=true" /> <sub>.NET MAUI · Java Swing</sub>
 
-**Data & Outils**
+**Bases de données & Infra**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker&theme=dark&margin=100&space=true" />
+
+**Systèmes**
+
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark&margin=100&space=true" />
+
+**Éditeurs & IA**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion&theme=dark&margin=100&space=true" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white&margin=100&space=true" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white&margin=100&space=true" />
+
+<br>
+
+## 🚀 Projets phares
+
+<div align="center">
+
+<a href="https://github.com/IsaacDMD/gesture-synth"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacDMD&repo=gesture-synth&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9" /></a>
+<a href="https://github.com/IsaacDMD/EMBERC"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacDMD&repo=EMBERC&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9" /></a>
+<a href="https://github.com/IsaacDMD/Restaurant-management-system"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacDMD&repo=Restaurant-management-system&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9" /></a>
+
+<a href="https://github.com/IsaacDMD/pressing-pro"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacDMD&repo=pressing-pro&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9" /></a>
+<a href="https://github.com/IsaacDMD/vue_quiz"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacDMD&repo=vue_quiz&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9" /></a>
+<a href="https://github.com/IsaacDMD/Mini-Pannau-Hub"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacDMD&repo=Mini-Pannau-Hub&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9" /></a>
+
+</div>
+
+| Projet | Description | Stack |
+|:---|:---|:---|
+| 🎹 [Gesture Synth](https://github.com/IsaacDMD/gesture-synth) | Synthétiseur qui joue une note selon le doigt levé | Python |
+| ⛪ [EMBERC](https://github.com/IsaacDMD/EMBERC) | Plateforme de gestion pour une communauté d'église | FastAPI · Vue |
+| 🍽️ [RESTAU](https://github.com/IsaacDMD/Restaurant-management-system) | Application de gestion de restaurant | Java Swing |
+| 👕 [PRESSING](https://github.com/IsaacDMD/pressing-pro) | Application de gestion de pressing | TypeScript · React |
+| ❓ [Vue Quiz](https://github.com/IsaacDMD/vue_quiz) | Site web de quiz interactif | Vue |
+| 📋 [Mini Pannau Hub](https://github.com/IsaacDMD/Mini-Pannau-Hub) | Mini-hub web de gestion de panneaux | PHP · Laravel |
 
 <br>
 
