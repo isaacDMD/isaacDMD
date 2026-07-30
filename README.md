@@ -4,9 +4,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Desktop+Developer;Bas%C3%A9+%C3%A0+Lom%C3%A9%2C+Togo+%F0%9F%87%B9%F0%9F%87%AC;Actuellement+en+stage+%E2%80%94+SaaS+Ads+Platform;En+train+d'apprendre+RAG+%2F+IA+appliqu%C3%A9e." />
 
+&nbsp;
+
+<a href="#-qui-suis-je">Qui suis-je</a> •
+<a href="#%EF%B8%8F-stack">Stack</a> •
+<a href="#-projets-phares">Projets</a> •
+<a href="#-certifications">Certifications</a> •
+<a href="#-statistiques">Stats</a> •
+<a href="#-me-contacter">Contact</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/IsaacDMD?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=IsaacDMD&label=Visiteurs&color=FF6B35&style=flat" />
+
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:004E64&height=3&width=100%25"/>
 
 ## 👋 Qui suis-je
 
@@ -24,16 +40,22 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 
 <br>
 
-## 🧭 En ce moment
+<table width="100%">
+<tr><td>
 
 ```text
 📍 Lomé, Togo
 🎓 Étudiant en Informatique
-🔭 J'explore : RAG, outils IA-assistés, LARAVEL, VUE
+🔭 J'explore : RAG, outils IA-assistés, Laravel, Vue
 🤝 Ouvert aux échanges, collabs, et opportunités
 ```
 
+</td></tr>
+</table>
+
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:004E64&height=3&width=100%25"/>
 
 ## 🛠️ Stack
 
@@ -94,15 +116,14 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 
 <br>
 
-### 🧰 Outils & IA
+### 🧰 Outils, Design & IA
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=notion&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=notion&theme=dark" />
 
 <br><br>
 
@@ -111,7 +132,11 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
 
+</div>
+
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:004E64&height=3&width=100%25"/>
 
 ## 🚀 Projets phares
 
@@ -171,6 +196,8 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:004E64&height=3&width=100%25"/>
+
 ## 🏆 Certifications
 
 <div align="center">
@@ -186,29 +213,44 @@ I'm a Computer Science student splitting my time between **web** and **desktop**
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:004E64&height=3&width=100%25"/>
+
 ## 📊 Statistiques
 
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=IsaacDMD&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=F7931E&text_color=c9d1d9&ring_color=004E64" />
+&nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacDMD&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=c9d1d9&langs_count=8" />
-</div>
 
-<div align="center">
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacDMD&hide_border=true&background=00000000&ring=F7931E&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" />
-</div>
 
-<div align="center">
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IsaacDMD&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacDMD&theme=react-dark&bg_color=00000000&color=FF6B35&line=F7931E&point=ffffff&hide_border=true" width="100%"/>
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/IsaacDMD/IsaacDMD/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph"/>
+
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:004E64&height=3&width=100%25"/>
 
 ## 📫 Me contacter
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/isaac-djimadjo/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-<a href="mailto:isaacdjimadjo830@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+<a href="https://www.linkedin.com/in/isaac-djimadjo/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:isaacdjimadjo830@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/22890764916"><img src="https://skillicons.dev/icons?i=whatsapp&theme=dark" /></a>
 
 </div>
