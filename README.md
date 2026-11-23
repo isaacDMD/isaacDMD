@@ -16,7 +16,7 @@
 <br><br>
 
 <img src="https://img.shields.io/github/followers/IsaacDMD?label=Followers&style=social" />
-<img src="https://komarev.com/ghpvc/?username=IsaacDMD&label=Visiteurs&color=FF6B35&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=IsaacDMD&label=Profile%20views&color=FF6B35&style=flat" alt="IsaacDMD" />
 
 </div>
 
